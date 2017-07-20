@@ -11,6 +11,8 @@ docstore
 tags
 chat
 spelling
+real-time
+migrations/*.js
 
 data
 tmp
